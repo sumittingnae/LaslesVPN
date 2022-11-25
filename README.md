@@ -1,1 +1,1 @@
-# LaslesVPN
+# Lasles
